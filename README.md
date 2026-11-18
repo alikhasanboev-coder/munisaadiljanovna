@@ -9,4 +9,4 @@ Statik bir sahifali sayt (HTML/CSS). Build kerak emas.
 
 ## Sozlamalar
 - Telegram havola: `index.html` ichida `id="cta"` bo'lgan `<a>` `href`.
-- Meta Pixel: `<head>` ichida (PageView + tugma bosilganda `Lead`).
+- Meta Pixel: `<head>` ichida, o'zgartirilmagan asl kod. Tugma bosilganda qo'shimcha `Lead` hodisasi yuboriladi.
